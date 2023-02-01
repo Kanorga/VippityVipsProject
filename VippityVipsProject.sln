@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VippityVipsProject", "VippityVipsProject\VippityVipsProject.csproj", "{87C85B22-A5D0-4FFF-B3E4-816A5FE5088D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C85B22-A5D0-4FFF-B3E4-816A5FE5088D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C85B22-A5D0-4FFF-B3E4-816A5FE5088D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C85B22-A5D0-4FFF-B3E4-816A5FE5088D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C85B22-A5D0-4FFF-B3E4-816A5FE5088D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0E24C1-A87B-4365-8DBC-6CD032B29DDF}
+	EndGlobalSection
+EndGlobal
